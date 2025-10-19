@@ -1,4 +1,5 @@
 # pet-website
+
 This is a simple pet website built using html, css and javascript, it is designed as a single page website where all the content is divided into sections that you scroll through vertically rather than multiple separate html pages
 
 
@@ -8,7 +9,7 @@ The website showcases different sections such as
 
 However, the navigation links or buttons on the website are currently non-functional as i am still learning how to make them work using javascript
 
-I have used
+I have used:
 
 - HTML - For page structure
 - CSS - For styling and layout
@@ -26,3 +27,5 @@ I’m using it to practice:
 - Slowly learning JavaScript to make it more interactive  
 
 This website is a personal learning project, created out of love for animals and curiosity for web design 
+
+-AnnJoy Kendi Kabuli
