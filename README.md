@@ -17,6 +17,7 @@ I have used:
 
 I am still working on: 
 - Adding functionality to buttons and navigation
+- Learning how to ad multiple pages instead of one scrolldown
 - Improving responsiveness across devices
 - Adding more animations and interactivity with javascript
 
